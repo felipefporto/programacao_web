@@ -108,7 +108,6 @@ body {
     height: auto;
     margin-bottom: 20px;
     margin-right: 20px;
-    float: left;
 }
 
 .project-pic ul {
@@ -179,6 +178,13 @@ body {
 
 .caminho a {
     color: gray;
+}
+
+.return-button {
+    display: block;
+    margin: 20x auto;
+    padding: 10px 20px;
+    font-size: 16px;
 }
 
 @keyframes profile-capa {
